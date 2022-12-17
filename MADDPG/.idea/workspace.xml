@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4308285c-fc65-40e9-96a2-68572f048936" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aR4kA1ULtT1y2KNqweIbobxLmF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MAPPO代码/light_mappo-main" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Python.train">
+    <configuration name="MultiUAV_environment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Multi-UAV MEC Simulation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MultiUAV_environment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MultiUAV_scenario" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Multi-UAV MEC Simulation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MultiUAV_scenario.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Multi-UAV MEC Simulation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Multi-UAV MEC Simulation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Multi-UAV MEC Simulation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\Anaconda\envs\py\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.model_test" />
+        <item itemvalue="Python.MultiUAV_environment" />
+        <item itemvalue="Python.MultiUAV_scenario" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4308285c-fc65-40e9-96a2-68572f048936" name="Default Changelist" comment="" />
+      <created>1586685212775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586685212775</updated>
+      <workItem from="1586685214224" duration="14500000" />
+      <workItem from="1587029110117" duration="4208000" />
+      <workItem from="1587132919614" duration="16333000" />
+      <workItem from="1587348950099" duration="12045000" />
+      <workItem from="1590636098226" duration="1850000" />
+      <workItem from="1591061075906" duration="13900000" />
+      <workItem from="1591235230626" duration="8788000" />
+      <workItem from="1591337950399" duration="9586000" />
+      <workItem from="1591450094755" duration="1231000" />
+      <workItem from="1591786469431" duration="9479000" />
+      <workItem from="1591926380485" duration="13881000" />
+      <workItem from="1592202409272" duration="11517000" />
+      <workItem from="1592271676424" duration="55000" />
+      <workItem from="1592380675173" duration="375000" />
+      <workItem from="1592381565011" duration="10489000" />
+      <workItem from="1592401309421" duration="4153000" />
+      <workItem from="1592443660928" duration="322000" />
+      <workItem from="1592537301969" duration="16790000" />
+      <workItem from="1592705642276" duration="27710000" />
+      <workItem from="1592894247453" duration="20710000" />
+      <workItem from="1593141958284" duration="9633000" />
+      <workItem from="1593586948319" duration="10534000" />
+      <workItem from="1593863473681" duration="8185000" />
+      <workItem from="1594002042018" duration="1162000" />
+      <workItem from="1594369089184" duration="9813000" />
+      <workItem from="1594885132162" duration="10349000" />
+      <workItem from="1595046263029" duration="8585000" />
+      <workItem from="1595142848536" duration="25737000" />
+      <workItem from="1595328932780" duration="11538000" />
+      <workItem from="1595417218734" duration="17079000" />
+      <workItem from="1595503465465" duration="42808000" />
+      <workItem from="1596694302942" duration="8049000" />
+      <workItem from="1597057170319" duration="4446000" />
+      <workItem from="1597213965656" duration="9707000" />
+      <workItem from="1597482083473" duration="6821000" />
+      <workItem from="1598596976125" duration="1191000" />
+      <workItem from="1601447043235" duration="25145000" />
+      <workItem from="1602047569329" duration="2677000" />
+      <workItem from="1602065364868" duration="32925000" />
+      <workItem from="1602396786210" duration="84000" />
+      <workItem from="1602400410855" duration="48623000" />
+      <workItem from="1603184136136" duration="12236000" />
+      <workItem from="1603630953403" duration="28989000" />
+      <workItem from="1604216461313" duration="614000" />
+      <workItem from="1608191620659" duration="8729000" />
+      <workItem from="1608441886343" duration="36095000" />
+      <workItem from="1609408708714" duration="3139000" />
+      <workItem from="1609833321543" duration="2692000" />
+      <workItem from="1609836973450" duration="604000" />
+      <workItem from="1610097745365" duration="17152000" />
+      <workItem from="1611839286988" duration="1295000" />
+      <workItem from="1612578508491" duration="39000" />
+      <workItem from="1612617379709" duration="68000" />
+      <workItem from="1613372011642" duration="3507000" />
+      <workItem from="1613896569991" duration="4061000" />
+      <workItem from="1614061648129" duration="1380000" />
+      <workItem from="1614076663744" duration="772000" />
+      <workItem from="1614765610578" duration="902000" />
+      <workItem from="1614834588141" duration="79000" />
+      <workItem from="1614951881283" duration="876000" />
+      <workItem from="1615011813552" duration="2706000" />
+      <workItem from="1615096926625" duration="4597000" />
+      <workItem from="1615979778153" duration="220000" />
+      <workItem from="1616909184321" duration="5418000" />
+      <workItem from="1616993785477" duration="1194000" />
+      <workItem from="1619589875355" duration="64000" />
+      <workItem from="1619590312947" duration="4975000" />
+      <workItem from="1622794543432" duration="20961000" />
+      <workItem from="1638855747929" duration="281000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2576" y="111" key="#test" timestamp="1669703210740">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2576" y="111" key="#test/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1669703210740" />
+    <state x="2576" y="111" key="#train" timestamp="1669703229825">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2576" y="111" key="#train/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1669703229825" />
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1669876240903">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1669876240903" />
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1669983808901">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1669983808901" />
+    <state width="1899" height="348" key="GridCell.Tab.0.center" timestamp="1669983808901">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1669983808901" />
+    <state width="1899" height="348" key="GridCell.Tab.0.left" timestamp="1669983808901">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1669983808901" />
+    <state width="1899" height="348" key="GridCell.Tab.0.right" timestamp="1669983808901">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1669983808901" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1669983808901">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1669983808901" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1669983808901">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1669983808901" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1669983808901">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1669983808901" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1669983808901">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1669983808901" />
+    <state x="2449" y="157" key="SettingsEditor" timestamp="1669981998179">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2449" y="157" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1669981998179" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MultiUAV_scenario.py</url>
+          <line>278</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MultiUAV_scenario.py</url>
+          <line>296</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train.py</url>
+          <line>295</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="world" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
